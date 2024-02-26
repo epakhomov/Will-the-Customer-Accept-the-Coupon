@@ -29,9 +29,9 @@ According to the next assignment, we looked closer at the data that contained ob
 
 We calculated the proportion of the total observations that chose to accept the "Bar" coupons to be **41%**.
 
-Then we were given the following groups of observation for the analysis on which group will more likely accept the coupon.
-
 #### Groups
+
+Then we were given the following groups of observation for the analysis on which group will more likely accept the coupon.
 
 Group 1A: Drivers who went to a bar 3 or fewer times a month.
 Group 1B: Drivers who went to a bar more than 3 times a month.
@@ -48,6 +48,17 @@ Group 4C: Drivers that go to cheap restaurants more than 4 times a month and inc
 
 #### Acceptance rates
 
-|                    |Group 1A|
-|--------------------|--------|
-|**Acceptance rate** |  0.37  |
+|                    |Group 1A|Group 1B|Group 2A|Group 2B|Group 3A|Group 3B|Group 4A|Group 4B|Group 4C|
+|--------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|**Acceptance rate** |  0.37  |  0.77  |  0.7   |  0.33  |  0.71  |  0.3   |  0.71  |  0.72  |  0.46  |
+
+### Discussion
+
+Based on these observations, we can hypothesize the following about the drivers who accepted the bar coupons. The drivers are more likely to accept the coupons if they are:
+
+- Go to a bar often, at least once a month
+- Are over the age of 25 and older
+- Have passengers that were not a kid
+- Not involved in farming, fishing, or forestry industry
+
+### Part 2
