@@ -48,6 +48,6 @@ Group 4C: Drivers that go to cheap restaurants more than 4 times a month and inc
 
 #### Acceptance rates
 
-|                |Group 1A|
-|----------------|--------|
-|Acceptance rate |  0.37  |
+|                    |Group 1A|
+|--------------------|--------|
+|**Acceptance rate** |  0.37  |
