@@ -20,4 +20,4 @@ The data describes five different types of coupons: -- less expensive restaurant
 
 One of the first suggested tasks was to visualize the variety of coupons that the data has (Fig.1).
 
-![FIg.1](/images/01.png)
+![Fig.1](/images/01.png =250x)
