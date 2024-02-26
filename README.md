@@ -1,1 +1,1 @@
-# Will the customer accept the cuopon? heading
+# Will the customer accept the cuopon?
