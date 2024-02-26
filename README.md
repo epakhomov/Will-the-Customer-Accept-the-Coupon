@@ -1,3 +1,1 @@
-<h1>Will the Customer Accept the Coupon?</h1>
-
-
+# Will the customer accept the cuopon? heading
