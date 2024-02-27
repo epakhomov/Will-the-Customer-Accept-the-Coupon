@@ -89,7 +89,7 @@ Group 5C: All other drivers that do not fall into Group 5B.
 
 ### Discussion
 
-Both Groups have good acceptance rates which proves that any driver with high income is likely to accept "Restaurant(<20)", "Carry out & Take away" and "Coffee house" coupons. However, out of drivers with high income, the biggest acceptance rate was observed in single drivers observed in sunny weather with no urgent place to go and that were given coupons expiring in one day.
+Both Groups have good acceptance rates which proves that any driver with high income is likely to accept "Restaurant(<20)", "Carry out & Take away" and "Coffee house" coupons. However, out of all drivers with high income, the biggest acceptance rate was detected in the group of single drivers observed in sunny weather with no urgent place to go and that were given coupons expiring in one day.
 
 Thus, business with the modest budget for coupon promotions should target this group of drivers first. Some social media companies, like Meta for example, can target users with these specific attributes. 
 
