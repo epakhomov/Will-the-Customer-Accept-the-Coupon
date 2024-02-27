@@ -67,4 +67,5 @@ Businesses are interested in customers with high income, becuase they likely to 
 
 Let's create a new group 5A for drivers with income 87500−99999 USD and 100000 USD or more.
 Now let's visualize the variety of coupons for this group (Fig.2).
+
 <img src="/images/02.png" alt="Fig.2" style="width:500px;height:auto;">
