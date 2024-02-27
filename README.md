@@ -36,7 +36,7 @@ Then we were given the following groups of observation for the analysis on which
 Group 1A: Drivers who went to a bar 3 or fewer times a month.<br />
 Group 1B: Drivers who went to a bar more than 3 times a month.
 
-Group 2A: Drivers who go to a bar more than once a month and are over the age of 25.
+Group 2A: Drivers who go to a bar more than once a month and are over the age of 25.<br />
 Group 2B: All other drivers (that is who go to a bar less once a month and are under the age of 25).
 
 Group 3A: Drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
