@@ -33,7 +33,7 @@ We calculated the proportion of the total observations that chose to accept the 
 
 Then we were given the following groups of observation for the analysis on which group will more likely accept the coupon.
 
-Group 1A: Drivers who went to a bar 3 or fewer times a month.
+Group 1A: Drivers who went to a bar 3 or fewer times a month.<br />
 Group 1B: Drivers who went to a bar more than 3 times a month.
 
 Group 2A: Drivers who go to a bar more than once a month and are over the age of 25.
