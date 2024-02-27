@@ -69,3 +69,5 @@ Let's create a new group 5A for drivers with income 87500−99999 USD and 100000
 Now let's visualize the variety of coupons for this group (Fig.2).
 
 <img src="/images/02.png" alt="Fig.2" class="center" style="width:600px;height:auto;">
+
+As we can see, two coupon types stand out: "Restaurant(<20)" and "Carry out & Take away". It's interesting also to note that drivers with high income were less likely to accept "Bar" and "Restaurant(20-50)" coupons. So with this data in mind, let's take even closer look at drivers with high income who likely to accept "Restaurant(<20)", "Carry out & Take away" and "Coffe house" coupons.
