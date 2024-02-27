@@ -6,7 +6,7 @@ This readme file provides a summary of findings for Practical Application Assign
 
 ## The objective and the data
 
-The objective of these study is to highlight the differences between customers who did and did not accept the coupons. The information about the data is provided in the Jupyter book that can be found here.
+The objective of the study is to highlight the differences between customers who did and did not accept the coupons. The information about the data is provided in the Jupyter book that can be found here.
 
 ## The summary
 
@@ -14,7 +14,7 @@ The summary consists of two parts. The first part was scoped in the assignment a
 
 ### The data
 
-The data describes five different types of coupons: -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). As well as the attributes of the drivers like gender, age, income, etc. and also contextual attributes. Please find the full list of attributes in the Jupyter book.
+The data describes five different types of coupons: less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). As well as the attributes of the drivers like gender, age, income, etc. and also contextual attributes. Please find the full list of attributes in the Jupyter book.
 
 ### Part 1
 
@@ -42,9 +42,9 @@ Group 2B: All other drivers (that is who go to a bar less once a month and are u
 Group 3A: Drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
 Group 3B: All other drivers that do not fall into Group 3A.
 
-Group 4A: Drivers that go to bars more than once a month, had passengers that were not a kid, and were not widowed.
-Group 4B: Drivers that go to bars more than once a month and are under the age of 30.
-Group 4C: Drivers that go to cheap restaurants more than 4 times a month and income is less than 50K.
+Group 4A: Drivers that go to bars more than once a month, had passengers that were not a kid, and were not widowed. 
+Group 4B: Drivers that go to bars more than once a month and are under the age of 30. 
+Group 4C: Drivers that go to cheap restaurants more than 4 times a month and income is less than 50K. 
 
 #### Acceptance rates
 
