@@ -72,7 +72,7 @@ Now let's visualize the variety of coupons for this group (Fig.2).
 
 As we can see, three coupon types stand out: "Restaurant(<20)", "Carry out & Take away" and "Coffe house". It's interesting also to note that drivers with high income were less likely to accept "Bar" and "Restaurant(20-50)" coupons. So with this data in mind, let's take even closer look at drivers with high income who likely to accept "Restaurant(<20)", "Carry out & Take away" and "Coffe house" coupons.
 
-<img src="/images/03_1.png" alt="Fig.3" class="center" style="width:700px;height:auto;">
+<img src="/images/03_2.png" alt="Fig.3" class="center" style="width:800px;height:auto;">
 
 Looking at these plots, we notice the following attributes stand out stronger than the most: weather, expiration, marital status, destination. With that in mind, let's verify this observation by calculating an acceptance rate between single drivers observed in sunny weather with no urgent place to go and that were given coupons expiring in one day. Let's compare this acceptance rate with an acceptance rate for everybody else and Group 5A.
 
