@@ -31,7 +31,7 @@ We calculated the proportion of the total observations that chose to accept the 
 
 #### Groups
 
-Then we were given the following groups of observation for the analysis on which group will more likely accept the coupon.
+Then we were given the following groups of observation for the analysis of which group will more likely accept the coupon.
 
 Group 1A: Drivers who went to a bar 3 or fewer times a month.<br />
 Group 1B: Drivers who went to a bar more than 3 times a month.
