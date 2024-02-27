@@ -96,5 +96,5 @@ Thus, business with the modest budget for coupon promotions should target this g
 ## Next steps and recommendations
 
 - For users with high income, we can even further research specific attributes like occupation, direction, education, children, etc.
-- We can also conduct the similar analysis for business involved in only one segment, like Bars only we did in the Part 1. We could similarly research other segments (Cheap restaurants, coffee houses, et.).
-- Given the opportunity that businesses have to target any attributes of drivers, it would be great to develop a system that would automatically calculate coupon acceptance rates given the input about target audience. 
+- We can also conduct the similar analysis for business involved in only one segment, like Bars only as we did in the Part 1. We could similarly research other segments (Cheap restaurants, coffee houses, et.).
+- Given the technical means that allow businesses to target any attributes of drivers, it would be great to develop a system that would automatically calculate coupon acceptance rates given the input about target audience. 
