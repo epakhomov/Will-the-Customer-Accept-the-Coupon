@@ -20,7 +20,7 @@ The data describes five different types of coupons: -- less expensive restaurant
 
 One of the first suggested tasks was to visualize the variety of coupons that the data has (Fig.1).
 
-<img src="/images/01.png" alt="Fig.1" style="width:500px;height:auto;">
+<img src="/images/01.png" alt="Fig.1" class="center" style="width:500px;height:auto;">
 
 As we can clearly see that the most common coupon is "Coffe House" as well as the most accepted one.
 We also calculated the proportion of the total observations that chose to accept the coupons to be **57%**.
