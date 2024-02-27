@@ -62,3 +62,9 @@ Based on these observations, we can hypothesize the following about the drivers 
 - Not involved in farming, fishing, or forestry industry
 
 ### Part 2
+
+Businesses are interested in customers with high income, becuase they likely to spend more money and increase the revenue. The objective of this part is to understand attributes of drivers with high income who would likely accept a coupon.
+
+Let's create a new group 5A for drivers with income 87500−99999 USD and 100000 USD or more.
+Now let's visualize the variety of coupons for this group (Fig.2).
+<img src="/images/02.png" alt="Fig.2" style="width:500px;height:auto;">
