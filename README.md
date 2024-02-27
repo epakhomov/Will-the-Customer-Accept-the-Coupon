@@ -82,3 +82,9 @@ Group 5B: Single drivers observed in sunny weather with no urgent place to go an
 Group 5C: All other drivers that do not fall into Group 5B.
 
 #### Acceptance rates
+
+|                    |Group 5B|Group 5C|
+|--------------------|--------|--------|
+|**Acceptance rate** |  0.81  |  0.6   |
+
+### Discussion
