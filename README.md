@@ -33,18 +33,18 @@ We calculated the proportion of the total observations that chose to accept the 
 
 Then we were given the following groups of observation for the analysis of which group will more likely accept the coupon.
 
-Group 1A: Drivers who went to a bar 3 or fewer times a month.<br />
-Group 1B: Drivers who went to a bar more than 3 times a month.
+**Group 1A**: Drivers who went to a bar 3 or fewer times a month.<br />
+**Group 1B**: Drivers who went to a bar more than 3 times a month.
 
-Group 2A: Drivers who go to a bar more than once a month and are over the age of 25.<br />
-Group 2B: All other drivers (that is who go to a bar less once a month and are under the age of 25).
+**Group 2A**: Drivers who go to a bar more than once a month and are over the age of 25.<br />
+**Group 2B**: All other drivers (that is who go to a bar less once a month and are under the age of 25).
 
-Group 3A: Drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.<br />
-Group 3B: All other drivers that do not fall into Group 3A.
+**Group 3A**: Drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.<br />
+**Group 3B**: All other drivers that do not fall into Group 3A.
 
-Group 4A: Drivers that go to bars more than once a month, had passengers that were not a kid, and were not widowed.<br /> 
-Group 4B: Drivers that go to bars more than once a month and are under the age of 30. <br />
-Group 4C: Drivers that go to cheap restaurants more than 4 times a month and income is less than 50K. 
+**Group 4A**: Drivers that go to bars more than once a month, had passengers that were not a kid, and were not widowed.<br /> 
+**Group 4B**: Drivers that go to bars more than once a month and are under the age of 30. <br />
+**Group** 4C: Drivers that go to cheap restaurants more than 4 times a month and income is less than 50K. 
 
 #### Acceptance rates
 
@@ -78,8 +78,8 @@ Looking at these plots, we notice the following attributes stand out stronger th
 
 #### Groups
 
-Group 5B: Single drivers observed in sunny weather with no urgent place to go and that were given coupons expiring in one day.
-Group 5C: All other drivers that do not fall into Group 5B.
+**Group 5B**: Single drivers observed in sunny weather with no urgent place to go and that were given coupons expiring in one day.
+**Group 5C**: All other drivers that do not fall into Group 5B.
 
 #### Acceptance rates
 
