@@ -6,7 +6,7 @@ This readme file provides a summary of findings for Practical Application Assign
 
 ## The objective and the data
 
-The objective of thes study is to highlight the differences between customers who did and did not accept the coupons. The information about the data is provided in the Jupyter book that can be found here.
+The objective of these study is to highlight the differences between customers who did and did not accept the coupons. The information about the data is provided in the Jupyter book that can be found here.
 
 ## The summary
 
@@ -22,7 +22,7 @@ One of the first suggested tasks was to visualize the variety of coupons that th
 
 <img src="/images/01.png" alt="Fig.1" class="center" style="width:600px;height:auto;">
 
-As we can clearly see that the most common coupon is "Coffe House" as well as the most accepted one.
+As we can clearly see that the most common coupon is "Coffee House" as well as the most accepted one.
 We also calculated the proportion of the total observations that chose to accept the coupons to be **57%**.
 
 According to the next assignment, we looked closer at the data that contained observations for the "Bar" coupon only.
@@ -40,7 +40,7 @@ Group 2A: Drivers who go to a bar more than once a month and are over the age of
 Group 2B: All other drivers (that is who go to a bar less once a month and are under the age of 25).
 
 Group 3A: Drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
-Group 3B: All other drivers that do not fall into Group3A.
+Group 3B: All other drivers that do not fall into Group 3A.
 
 Group 4A: Drivers that go to bars more than once a month, had passengers that were not a kid, and were not widowed.
 Group 4B: Drivers that go to bars more than once a month and are under the age of 30.
@@ -63,14 +63,14 @@ Based on these observations, we can hypothesize the following about the drivers 
 
 ### Part 2
 
-Businesses are interested in customers with high income, becuase they likely to spend more money and increase the revenue. The objective of this part is to understand attributes of drivers with high income who would likely accept a coupon.
+Businesses are interested in customers with high income, because they likely to spend more money and increase the revenue. The **objective of this part** is to understand attributes of drivers with high income who would likely accept a coupon.
 
 Let's create a new group 5A for drivers with income 87500−99999 USD and 100000 USD or more.
 Now let's visualize the variety of coupons for this group (Fig.2).
 
 <img src="/images/02.png" alt="Fig.2" class="center" style="width:600px;height:auto;">
 
-As we can see, three coupon types stand out: "Restaurant(<20)", "Carry out & Take away" and "Coffe house". It's interesting also to note that drivers with high income were less likely to accept "Bar" and "Restaurant(20-50)" coupons. So with this data in mind, let's take even closer look at drivers with high income who likely to accept "Restaurant(<20)", "Carry out & Take away" and "Coffe house" coupons.
+As we can see, three coupon types stand out: "Restaurant(<20)", "Carry out & Take away" and "Coffee house". It's interesting also to note that drivers with high income were less likely to accept "Bar" and "Restaurant(20-50)" coupons. So with this data in mind, let's take even closer look at drivers with high income who likely to accept "Restaurant(<20)", "Carry out & Take away" and "Coffee House".
 
 <img src="/images/03_2.png" alt="Fig.3" class="center" style="width:800px;height:auto;">
 
@@ -89,6 +89,12 @@ Group 5C: All other drivers that do not fall into Group 5B.
 
 ### Discussion
 
+Both Groups have good acceptance rates which proves that any driver with high income is likely to accept "Restaurant(<20)", "Carry out & Take away" and "Coffee house" coupons. However, out of drivers with high income, the biggest acceptance rate was observed in single drivers observed in sunny weather with no urgent place to go and that were given coupons expiring in one day.
 
+Thus, business with the modest budget for coupon promotions should target this group of drivers first. Some social media companies, like Meta for example, can target users with these specific attributes. 
 
 ## Next steps and recommendations
+
+- For users with high income, we can even further research specific attributes like occupation, direction, education, children, etc.
+- We can also conduct the similar analysis for business involved in only one segment, like Bars only we did in the Part 1. We could similarly research other segments (Cheap restaurants, coffee houses, et.).
+- Given the opportunity that businesses have to target any attributes of drivers, it would be great to develop a system that would automatically calculate coupon acceptance rates given the input about target audience. 
