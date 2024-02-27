@@ -6,7 +6,7 @@ This readme file provides a summary of findings for Practical Application Assign
 
 ## The objective and the data
 
-The objective of the study is to highlight the differences between customers who did and did not accept the coupons. The information about the data is provided in the Jupyter book that can be found here.
+The objective of the study is to highlight the differences between customers who did and did not accept the coupons. The information about the data is provided in [the Jupyter book that can be found here](src/prompt.ipynb).
 
 ## The summary
 
